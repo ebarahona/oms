@@ -9,7 +9,7 @@
     "email": "kubac65@gmail.com"
   },
   "dependencies": {
-    "deployd": "^0.8.7",
+    "deployd": "^1.1.3",
     "express": "^4.12.4",
     "phantomjs": "^2.1.7",
     "socket.io": "^1.3.7",
